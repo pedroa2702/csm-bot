@@ -1,0 +1,12 @@
+{
+  "name": "TGUploaderPro",
+  "description": "Bot De Telegram : TGUploaderPro v12.4.2 Fixed , Descargador gratis de contenido desde internet a hacia moodles , nexcloud en cuba",
+  "repository": "https://github.com/Danyor97", 
+  "env": {
+    "bot_token": {
+      "description": "El token del bot"
+    },"tl_admin_user": {
+      "description": "usuarion administrador del bote de telegram","value":"*"
+    }
+  }
+}
